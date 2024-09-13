@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\2A-MODULAR\\GUILHERMEGUSTAVO\\DS-1\\Loja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B1FAF-64C0-44C7-BB88-506738AB67B4}|Loja\\Loja.csproj|f:\\2a-modular\\guilhermegustavo\\ds-1\\loja\\loja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B1FAF-64C0-44C7-BB88-506738AB67B4}|Loja\\Loja.csproj|solutionrelative:loja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B1FAF-64C0-44C7-BB88-506738AB67B4}|Loja\\Loja.csproj|f:\\2a-modular\\guilhermegustavo\\ds-1\\loja\\loja\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A54B1FAF-64C0-44C7-BB88-506738AB67B4}|Loja\\Loja.csproj|solutionrelative:loja\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B1FAF-64C0-44C7-BB88-506738AB67B4}|Loja\\Loja.csproj|f:\\2a-modular\\guilhermegustavo\\ds-1\\loja\\loja\\repositorio\\iloginrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B1FAF-64C0-44C7-BB88-506738AB67B4}|Loja\\Loja.csproj|solutionrelative:loja\\repositorio\\iloginrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B1FAF-64C0-44C7-BB88-506738AB67B4}|Loja\\Loja.csproj|f:\\2a-modular\\guilhermegustavo\\ds-1\\loja\\loja\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A54B1FAF-64C0-44C7-BB88-506738AB67B4}|Loja\\Loja.csproj|solutionrelative:loja\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B1FAF-64C0-44C7-BB88-506738AB67B4}|Loja\\Loja.csproj|f:\\2a-modular\\guilhermegustavo\\ds-1\\loja\\loja\\repositorio\\loginrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B1FAF-64C0-44C7-BB88-506738AB67B4}|Loja\\Loja.csproj|solutionrelative:loja\\repositorio\\loginrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B1FAF-64C0-44C7-BB88-506738AB67B4}|Loja\\Loja.csproj|f:\\2a-modular\\guilhermegustavo\\ds-1\\loja\\loja\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B1FAF-64C0-44C7-BB88-506738AB67B4}|Loja\\Loja.csproj|solutionrelative:loja\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B1FAF-64C0-44C7-BB88-506738AB67B4}|Loja\\Loja.csproj|f:\\2a-modular\\guilhermegustavo\\ds-1\\loja\\loja\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B1FAF-64C0-44C7-BB88-506738AB67B4}|Loja\\Loja.csproj|solutionrelative:loja\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B1FAF-64C0-44C7-BB88-506738AB67B4}|Loja\\Loja.csproj|f:\\2a-modular\\guilhermegustavo\\ds-1\\loja\\loja\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A54B1FAF-64C0-44C7-BB88-506738AB67B4}|Loja\\Loja.csproj|solutionrelative:loja\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B1FAF-64C0-44C7-BB88-506738AB67B4}|Loja\\Loja.csproj|f:\\2a-modular\\guilhermegustavo\\ds-1\\loja\\loja\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B1FAF-64C0-44C7-BB88-506738AB67B4}|Loja\\Loja.csproj|solutionrelative:loja\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "F:\\2A-MODULAR\\GUILHERMEGUSTAVO\\DS-1\\Loja\\Loja\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Loja\\Models\\Cliente.cs",
+              "ToolTip": "F:\\2A-MODULAR\\GUILHERMEGUSTAVO\\DS-1\\Loja\\Loja\\Models\\Cliente.cs",
+              "RelativeToolTip": "Loja\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:02:50.771Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\2A-MODULAR\\GUILHERMEGUSTAVO\\DS-1\\Loja\\Loja\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\2A-MODULAR\\GUILHERMEGUSTAVO\\DS-1\\Loja\\Loja\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T18:20:13.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\2A-MODULAR\\GUILHERMEGUSTAVO\\DS-1\\Loja\\Loja\\Program.cs",
+              "RelativeDocumentMoniker": "Loja\\Program.cs",
+              "ToolTip": "F:\\2A-MODULAR\\GUILHERMEGUSTAVO\\DS-1\\Loja\\Loja\\Program.cs",
+              "RelativeToolTip": "Loja\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T18:17:22.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "F:\\2A-MODULAR\\GUILHERMEGUSTAVO\\DS-1\\Loja\\Loja\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Home\\Login.cshtml",
+              "ToolTip": "F:\\2A-MODULAR\\GUILHERMEGUSTAVO\\DS-1\\Loja\\Loja\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T18:10:03.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\2A-MODULAR\\GUILHERMEGUSTAVO\\DS-1\\Loja\\Loja\\appsettings.json",
+              "RelativeDocumentMoniker": "Loja\\appsettings.json",
+              "ToolTip": "F:\\2A-MODULAR\\GUILHERMEGUSTAVO\\DS-1\\Loja\\Loja\\appsettings.json",
+              "RelativeToolTip": "Loja\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T17:51:03.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILoginRepositorio.cs",
+              "DocumentMoniker": "F:\\2A-MODULAR\\GUILHERMEGUSTAVO\\DS-1\\Loja\\Loja\\Repositorio\\ILoginRepositorio.cs",
+              "RelativeDocumentMoniker": "Loja\\Repositorio\\ILoginRepositorio.cs",
+              "ToolTip": "F:\\2A-MODULAR\\GUILHERMEGUSTAVO\\DS-1\\Loja\\Loja\\Repositorio\\ILoginRepositorio.cs",
+              "RelativeToolTip": "Loja\\Repositorio\\ILoginRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:12:48.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginRepositorio.cs",
+              "DocumentMoniker": "F:\\2A-MODULAR\\GUILHERMEGUSTAVO\\DS-1\\Loja\\Loja\\Repositorio\\LoginRepositorio.cs",
+              "RelativeDocumentMoniker": "Loja\\Repositorio\\LoginRepositorio.cs",
+              "ToolTip": "F:\\2A-MODULAR\\GUILHERMEGUSTAVO\\DS-1\\Loja\\Loja\\Repositorio\\LoginRepositorio.cs",
+              "RelativeToolTip": "Loja\\Repositorio\\LoginRepositorio.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:11:47.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\2A-MODULAR\\GUILHERMEGUSTAVO\\DS-1\\Loja\\Loja\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Loja\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\2A-MODULAR\\GUILHERMEGUSTAVO\\DS-1\\Loja\\Loja\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Loja\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwCUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:39:19.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "F:\\2A-MODULAR\\GUILHERMEGUSTAVO\\DS-1\\Loja\\Loja\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Loja\\Models\\Usuario.cs",
+              "ToolTip": "F:\\2A-MODULAR\\GUILHERMEGUSTAVO\\DS-1\\Loja\\Loja\\Models\\Usuario.cs",
+              "RelativeToolTip": "Loja\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:57:43.591Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
